@@ -142,7 +142,7 @@ var questions = [
     //reset function setting everything back to 0 and loading new game.
     reset: function(){
       game.currentQuestions = 0;
-      game.counter = 0;
+      // game.counter = 0;
       game.correct = 0;
       game.incorrect =0;
       game.unanswered =0;
